@@ -1,0 +1,55 @@
+.logo {
+width: 400px;    
+}
+
+.divlinks {
+    width: 100%;
+    max-width: 450px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 0px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.40), 0 2px 8px rgba(0, 0, 0, 0.40);
+}
+
+.divcenter {
+    text-align: center;  
+}
+
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.sitetelyoutubecomp {
+    background-color: rgb(57, 53, 53);
+    border: 0px;
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+    border: 0px;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+    border: 0px;
+}
+
+.facecolor {
+    background-color: #4267B2;
+    border: 0px;
+}
+
+
