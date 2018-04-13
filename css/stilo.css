@@ -32,8 +32,8 @@ body {
     background-color: #ffffff;
 }
 
-.sitetelyoutubecomp {
-    background-color: rgb(57, 53, 53);
+.geral {
+    background-color: rgb(65, 61, 61);
     border: 0px;
 }
 
@@ -51,5 +51,23 @@ body {
     background-color: #4267B2;
     border: 0px;
 }
+.tel {
+    background-color: rgb(42, 100, 42);
+    border: 0px;
+    
+}
+.blog {
+    background-color: rgb(65, 15, 123);
+    border: 0px;
+    
+}
+
+.youtube {
+    background-color: rgb(211, 133, 205);
+    border: 0px;
+   
+    
+}
+
 
 
